@@ -1,0 +1,1 @@
+chrome.devtools.panels.create("Treble DevTools", null, "/html/panel.html", null);

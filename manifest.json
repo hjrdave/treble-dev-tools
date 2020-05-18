@@ -1,0 +1,11 @@
+{
+    "manifest_version" : 2,
+
+    "name" : "Treble DevTools",
+    "version" : "0.1",
+
+    "description" : "Treble DevTools helps debugg app state changes.",
+    "author" : "Osudio Frontend Team",
+
+    "devtools_page" : "html/devtools.html"
+}

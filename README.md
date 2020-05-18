@@ -1,2 +1,2 @@
 # treble-dev-tools
-Chrome Development Extension for TrebleGSM
+Chrome Development Extension for TrebleGSM. 
